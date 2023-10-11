@@ -23,7 +23,7 @@
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Copyright (C) 2021 Mr.White Shadow.
+Copyright (C) 2021 Mr.Senal.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 */
@@ -47,15 +47,15 @@ global.statusseen = true;                 //This is the new variable for control
 
 
 //
-global.Owner = ["94779529221","94757534153"];         //If you want singal number so global.Owner = ['94779529221'] Change into your number.
-global.OwnerNumber = ["94757534153","94779529221"];   //If you want singal number so global.Owner = ['94779529221'] Change into your number.
-global.ownertag = ["94779529221"];
-global.OwnerName = "Mr.White Shadow";
+global.Owner = ["94769872326","94769872326"];         //If you want singal number so global.Owner = ['94769872326'] Change into your number.
+global.OwnerNumber = ["94769872326","94769872326"];   //If you want singal number so global.Owner = ['94769872326'] Change into your number.
+global.ownertag = ["94769872326"];
+global.OwnerName = "Mr.Senal ";
 global.BotName = "Jessi-Md";
 global.packname = "Jessi-md bot";                             //Do not change.
-global.author = "By: Mr.White Shadow";                               //Do not change.
-global.BotSourceCode = "https://github.com/whiteshadowofficial/Jessi-md"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/I1uZccqxoqx5sOPrYHsbyc"; 
+global.author = "By: Mr.Senal";                               //Do not change.
+global.BotSourceCode = "https://github.com/mrsenal/Jessi-md"; //Do not change.
+global.SupportGroupLink = "https://chat.whatsapp.com/LROYenCG46D9CLPW4NaT9y"; 
 
 
 //
@@ -72,7 +72,7 @@ global.location = "Dhaka, Bangladesh";
 global.reactmoji = "✅";
 global.themeemoji = "💖";
 global.vidmenu = { url: 'https://tenor.com/view/jujutsu-kaisen0-yuta-okkotsu-gif-26767662' };
-global.websitex = "https://github.com/whiteshadowofficial";
+global.websitex = "https://github.com/mrsenal";
 global.lolhuman = "KaysaS";
 
 
@@ -84,24 +84,24 @@ global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
 
 
 //
-global.ntilinkytvid = []
-global.ntilinkytch = []
-global.ntilinkig = []
-global.ntilinkfb = []
-global.ntilinktg = []
-global.ntilinktt = []
-global.ntilinktwt = []
-global.ntilinkall = []
-global.nticall = []
-global.ntwame = []
-global.nttoxic = []
-global.ntnsfw = []
-global.ntvirtex = []
-global.rkyt = []
-global.wlcm = []
-global.gcrevoke = []
-global.autorep = []
-global.ntilink = []
+global.ntilinkytvid = [true]
+global.ntilinkytch = [true]
+global.ntilinkig = [true]
+global.ntilinkfb = [true]
+global.ntilinktg = [true]
+global.ntilinktt = [true]
+global.ntilinktwt = [true]
+global.ntilinkall = [true]
+global.nticall = [true]
+global.ntwame = [true]
+global.nttoxic = [true]
+global.ntnsfw = [true]
+global.ntvirtex = [true]
+global.rkyt = [true]
+global.wlcm = [true]
+global.gcrevoke = [true]
+global.autorep = [true]
+global.ntilink = [true]
 
 
 //
